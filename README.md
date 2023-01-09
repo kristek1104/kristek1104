@@ -11,3 +11,6 @@
 ###### Tools: VS Code, Chrome DevTools, Unix, Ubuntu.
 #### About myself:
 ###### Graduated from the Hexlet Programming School as a Frontend Developer. I like to think over my projects, implement them and see the result. In my free time I go in for sports, watch lectures and conferences, study, implemented five project scenarios. Contributing to the oppen-source Runit project.
+### LINKS:
+###### [Telegram](https://t.me/kristek1104)
+### Employment status: free.
